@@ -1,0 +1,24 @@
+{
+    "UniAndes":[
+        {
+            "title": "ingenieria en sistemas",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg"
+        },
+        {
+            "title": "ingenieria en sistemas",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg"
+        },
+        {
+            "title": "ingenieria en sistemas",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg"
+        },
+        {
+            "title": "ingenieria en sistemas",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg"
+        }
+    ]
+}

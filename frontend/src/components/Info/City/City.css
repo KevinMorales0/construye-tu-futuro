@@ -1,0 +1,17 @@
+.City-Main{
+    height: calc(100vh - 3rem);
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    overflow-x: scroll;
+}
+.City-Main::-webkit-scrollbar{
+    display: initial;
+    height: 0.6rem;
+    
+}
+.City-Main::-webkit-scrollbar-thumb{
+    border-radius: 0.3rem;
+    background: #55ff00;
+}

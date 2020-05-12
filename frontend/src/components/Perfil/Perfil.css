@@ -1,0 +1,43 @@
+.Perfil-Main{
+    background-color: #ffffff75;
+    box-shadow: 0px 5px 8px 0px rgba(0,0,0,0.75);
+    height: calc(100vh - 9rem);
+    padding: 3rem;
+}
+
+.Perfil-User{
+    padding: 1.5rem 0 1.5rem 0 ;
+    min-width: 18rem;
+}
+.Perfil-Login{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 4rem;
+    padding: 1rem;
+    text-align: right;
+}
+.Login-Button:focus,.Login-Button:active,.Login-Button:hover{
+    border: none;
+    background: #78ffa1;
+}
+.Login-Button{
+    grid-column: 1/2;
+    outline: none;
+    color: #f1f1f0;
+    border: none;
+    padding: 10px;
+    background: #55ff00ad;
+}
+.Perfil-Close{
+    outline: none;
+    height: calc(100vh - 3rem);
+    width: 1rem;
+    position: absolute;
+    top: 3rem;
+    right: 23.4rem;
+    border: none;
+    color: #ffffff;
+    background-color: #55ff00ad;
+    text-align: center;
+    padding: 0;
+}

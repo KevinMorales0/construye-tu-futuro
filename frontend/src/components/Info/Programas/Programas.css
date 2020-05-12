@@ -1,0 +1,17 @@
+.Pro-Main{
+    height: calc(100vh - 5.5rem);
+    width: 100vw;
+    padding-top: 2.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    overflow-y: scroll;
+}
+.Pro-Main::-webkit-scrollbar{
+    display: initial;
+    width: 0.6rem;
+    
+}
+.Pro-Main::-webkit-scrollbar-thumb{
+    border-radius: 0.3rem;
+    background: #55ff00ad;
+}

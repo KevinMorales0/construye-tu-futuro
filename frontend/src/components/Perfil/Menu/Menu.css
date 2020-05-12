@@ -1,0 +1,10 @@
+.Menu-Main{
+    display: grid;
+    text-align: right;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    grid-template-columns: 1fr;
+}
+Options{
+    grid-column: 1/2;
+}

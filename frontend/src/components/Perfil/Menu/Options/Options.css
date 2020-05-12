@@ -1,0 +1,18 @@
+
+.Options-Button:focus,.Options-Button:active,.Options-Button:hover{
+    border-right: solid 0.2rem #78ffa1;
+    color: black;
+}
+.Options-Button{
+    text-align: left;
+    outline: none;
+    font-size: 1rem;
+    color: #707070;
+    border: none;
+    border-right: solid 0.3rem #55ff00ad;
+    margin: 1rem;
+    padding: 0.5rem;
+    background:none;
+    grid-column: 1/2;
+    
+}

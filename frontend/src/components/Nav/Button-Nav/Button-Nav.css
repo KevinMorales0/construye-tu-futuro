@@ -1,0 +1,18 @@
+.Nav-Button{
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    height: 3rem;
+    outline: none;
+    background: none;
+    border: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 0 1rem 0 1rem ;
+
+}
+.Nav-Button:focus,.Nav-Button:hover,.Nav-Button:active{
+    height: calc(3rem + 0px);
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: #55ff00ad;
+}

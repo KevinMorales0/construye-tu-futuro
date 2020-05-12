@@ -1,0 +1,44 @@
+{
+    "Bogota":[
+        {
+            "title": "UniAndes",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://pbs.twimg.com/profile_images/893845730552664064/qPtChQ_X_400x400.jpg"
+        },
+        {
+            "title": "Nacional",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/4/47/Universidad_Nacional_de_Colombia_-_Escudo_2016.svg"
+        },
+        {
+            "title": "UniAndes",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://pbs.twimg.com/profile_images/893845730552664064/qPtChQ_X_400x400.jpg"
+        },
+        {
+            "title": "Nacional",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/4/47/Universidad_Nacional_de_Colombia_-_Escudo_2016.svg"
+        },
+        {
+            "title": "UniAndes",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://pbs.twimg.com/profile_images/893845730552664064/qPtChQ_X_400x400.jpg"
+        },
+        {
+            "title": "Nacional",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/4/47/Universidad_Nacional_de_Colombia_-_Escudo_2016.svg"
+        },
+        {
+            "title": "UniAndes",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://pbs.twimg.com/profile_images/893845730552664064/qPtChQ_X_400x400.jpg"
+        },
+        {
+            "title": "Nacional",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus vel nisl vitae tristique. Curabitur placerat ex eget sodales hendrerit. Nulla facilisi. Curabitur lobortis sem vehicula nulla pharetra, et semper elit lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi condimentum ultricies accumsan.",
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/4/47/Universidad_Nacional_de_Colombia_-_Escudo_2016.svg"
+        }
+    ]
+}
